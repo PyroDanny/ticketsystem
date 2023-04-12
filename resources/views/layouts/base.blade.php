@@ -28,7 +28,7 @@
                         <a class="nav-link" href="{{ route('events') }}">PAGE_1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ route('testroute1') }}">firstTestRoute</a>
+                        <a class="nav-link" href="{{ route('testroute1') }}">TestRoute</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('testroute2') }}">secondTestRoute</a>
