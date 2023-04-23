@@ -28,7 +28,7 @@
                         <a class="nav-link" href="{{ route('events') }}">T3ST_1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ route('testroute1') }}">TestRoute1111111</a>
+                        <a class="nav-link" href="{{ route('testroute1') }}">TestRoute1</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('testroute2') }}">secondTestRoute</a>
